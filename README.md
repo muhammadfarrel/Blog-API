@@ -1,6 +1,6 @@
 # Blog API
 
-This is a fake API project for the [react-blog](https://github.com/enriquemolinari/react-blog) single page application.
+This is a temporary API project for the [react-blog](https://github.com/putriesterr/React-Blog) single page application.
 
 # Install and Start
 
